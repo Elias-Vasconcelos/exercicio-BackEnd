@@ -1,0 +1,14 @@
+Criair um Repositorio no git-hub
+1- ir até o quarto
+2- abrir a porta
+3- O computador esta ligado? não
+    1- Ligar o computador
+3- O computador esta ligado? sim 
+4- Abrir o navegador 
+5- Entrar no site do git-hub
+6- Esta logado? não
+     1 Fazer login no git-hub
+6- Esta logado? sim 
+7- Ir ate novo repositorio
+8- Adicionar o nome do repositorio
+9- Criar o novo repositorio
